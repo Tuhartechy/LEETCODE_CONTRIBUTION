@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
