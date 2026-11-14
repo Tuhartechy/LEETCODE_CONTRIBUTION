@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0217-contains-duplicate) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
