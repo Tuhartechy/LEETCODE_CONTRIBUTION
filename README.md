@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0268-missing-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -86,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tuhartechy/LEETCODE_CONTRIBUTION/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
